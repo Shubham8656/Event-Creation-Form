@@ -1,0 +1,39 @@
+h2{
+    color: black;
+    font-size: 150%;
+}
+
+.edit-proceed{
+ display: flex;
+ justify-content: space-between;
+ width: 60%;
+ margin: auto;
+}
+button{
+    background-color: rgb(6, 152, 243);
+    padding: 10px;
+    border-radius: 5px;
+    color:white;
+    border: 0px;
+    font-weight: 600;
+    /* font-size: 90%; */
+}
+button:hover{
+    transform: scale(1.1);
+}
+
+.horizon{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    font-size: 90%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+#left{
+    text-align: left;
+    float: left;
+    background-color: green;
+}

@@ -30,57 +30,57 @@ function View(props){
               </div>
 
               <div className='horizon'>
-                <h3>title : -</h3>
+                <h3>Title : -</h3>
                 <div>{title}</div>
               </div>
 
               <div className='horizon'>
-                <h3>catagory : -</h3>
+                <h3>Catagory : -</h3>
                 <div>{catagory}</div>
               </div>
 
               <div className='horizon'>
-                <h3>summary : -</h3>
+                <h3>Summary : -</h3>
                 <div>{summary}</div>
               </div>
 
               <div className='horizon'>
-                <h3>register : -</h3>
+                <h3>Registration Link : -</h3>
                 <div>{register}</div>
               </div>
 
               <div className='horizon'>
-                <h3>link : -</h3>
+                <h3>Online Link : -</h3>
                 <div>{link}</div>
               </div>
 
               <div className='horizon'>
-                <h3>time zozne : -</h3>
+                <h3>Time Zone : -</h3>
                 <div>{tz}</div>
               </div>
 
               <div className='horizon'>
-                <h3>start date : -</h3>
+                <h3>Start date : -</h3>
                 <div>{start}</div>
               </div>
 
               <div className='horizon'>
-                <h3>start time : -</h3>
+                <h3>Start time : -</h3>
                 <div>{starttime}</div>
               </div>
 
               <div className='horizon'>
-                <h3>end date : -</h3>
+                <h3>End date : -</h3>
                 <div>{end}</div>
               </div>
 
               <div className='horizon'>
-                <h3>end time : -</h3>
+                <h3>End time : -</h3>
                 <div>{endtime}</div>
               </div>
 
               <div className='horizon'>
-                <h3>file 2 : -</h3>
+                <h3>File 2 : -</h3>
                 <img id='uploadPreview' src={file2} alt='file2'></img>
               </div>
             </div>

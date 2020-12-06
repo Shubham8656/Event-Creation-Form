@@ -171,6 +171,12 @@ select{
       border: 0px;
       border-bottom: 1px solid grey;
   }
+@media and screen (max-width:400px){
+  #starttime,#endtime{
+      
+      width:50%;
+  }
+}
   #starttimes,#endtimes{
     text-align: right;
 }
